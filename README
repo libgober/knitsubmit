@@ -1,0 +1,9 @@
+One of the great frustrations of submitting an academic paper to a journal is the amalgam of documents that you need to produce. Blinded, unblinded, titlepage, no titlepage, etc. Wouldn't it be better if you just could press "knit" and then these docs magically appear?
+
+This package allows you to add a line to your RMarkdown YAML
+
+knit: knitsubmit::knit_all
+
+What does this added line do? Well, it knits several templates with one click. 
+
+No waranties at this point about the usability of this package or whether the docs produced are actualy useful for your purposes/comply with the requirements of the journal you are applying to. But I'll probably be adding to this package as I inevitably submit more articles, and perhaps one day it will solve your problem. And who knows, that day might be today.

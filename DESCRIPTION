@@ -1,0 +1,13 @@
+Package: knitsubmit
+Title: Custom knit function for Rstudio that makes preparing journal submissions easier.
+Version: 0.0.0.9000
+Authors@R: 
+    person("Brian", "Libgober", , "blibgober@ucsd.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-9638-0228"))
+Description: Wouldn't it be nice to have a knit function that produces a decent title page, an anonymized title page, version with appendix attached, version witout appendix, etc., with one button?
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+
